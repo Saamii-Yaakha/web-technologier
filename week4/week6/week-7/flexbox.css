@@ -1,0 +1,33 @@
+.flex{
+    width: 100%;
+    /*back-ground:darkkhak;*/
+    border:4px solid rgb(16, 14, 14);
+    display:flex;
+    /*flex-direction: row;*/
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    gap: 20px;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    border:20px solid brown;
+}
+.box1{
+    background-color: rgb(119, 240, 137);
+}
+.box2{
+    background-color: aquamarine;
+}
+.box3{
+    background-color: blue;
+}
+.box4{
+    background-color: rgb(166, 27, 148);
+}
+.box5{
+    background-color: rgb(52, 164, 164);
+}
+.box6{
+    background-color: beige;
+}
